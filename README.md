@@ -16,3 +16,14 @@
 - Métodos Get: Pegar próprio perfil, Pegar perfil de algum usuário, Pegar receita.
 - Métodos Post: Criar usuário, Login, Criar receita.
 
+## Inicializar projeto
+```bash
+# Install packages
+$ npm install
+
+# Migrations
+$ npm run migrations
+
+# Run Back-end
+$ npm run dev
+```
