@@ -1,4 +1,4 @@
-## Projeto Cookenu
+# Cookenu
 - Um sistema de gerenciamento de receitas.
 
 ## Techs
